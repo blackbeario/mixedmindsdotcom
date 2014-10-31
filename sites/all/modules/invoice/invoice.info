@@ -1,0 +1,5 @@
+name = Invoice
+description = "Module to create invoices"
+core = 7.x
+version = "7.x-1.x-dev"
+php = 5.2.5
